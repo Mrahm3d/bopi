@@ -1,0 +1,2 @@
+- change logo in static/logo/kizi/logo y8.png
+- change favicon favicon_y8.ico
